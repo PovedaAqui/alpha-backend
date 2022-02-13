@@ -3,6 +3,7 @@ node_modules
 
 # testing
 coverage
+.DS_Store
 
 # truffle
 build
